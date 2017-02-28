@@ -10,4 +10,16 @@ HW2AndroidProgramming
 Basic Android programming to make three apps that match the spec file
 
 HW3Tetris
-Android Programming to implement Tetris
+Android Programming to implement Tetris with AIbrain interface
+AIbrain calculates the best movement
+
+HW4SudokuDB
+Solve Sudoku using recursive backtracking
+manage Sudoku database using SQL
+
+HW5Threading
+Multithreading practices with bank account and cryptography
+GUI and painting practice with Android Studio
+
+FinalProject
+Implement BunnyWorld - the code should not be visible to anyone outside of the team forever
